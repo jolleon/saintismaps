@@ -1,0 +1,16 @@
+[
+    {
+        "titre": "La Mairie",
+        "adresse": "Clos Faure",
+        "description": "La mairie de St Ismier.<br><a href=\"http://www.saint-ismier.fr/\">Visitez notre site internet!</a>",
+        "lat": 45.249002, 
+        "long": 5.827649
+    },
+    {
+        "titre": "La Tour d'Arce",
+        "adresse": "Chemin de la Tour d'Arce",
+        "description": "Une bien belle tour du XIIeme siecle.",
+        "lat": 45.258650, 
+        "long": 5.815780
+    }
+]
