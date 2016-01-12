@@ -2,6 +2,13 @@ $(function() {
 	var mapOptions = {
 		zoom: 14,
 		center: new google.maps.LatLng(45.248499, 5.827002), // St Ismier
+		styles: [{
+			featureType: "poi",
+			elementType: "labels",
+			stylers: [
+				  { visibility: "off" }
+			]
+		}],
 	};
 	
 	var infowindow = new google.maps.InfoWindow({
